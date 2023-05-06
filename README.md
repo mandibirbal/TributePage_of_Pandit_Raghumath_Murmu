@@ -1,1 +1,3 @@
-# TributePage_of_Pandit_Raghumath_Murmu
+# Tribute Page - Pandit Raghunath Murmu
+
+This is a completely responsive Tribute Page build by using HTML and CSS only....
